@@ -1,0 +1,196 @@
+
+
+.logo {
+color:#eb7a2f; 
+margin-left: 120px;
+word-spacing: 5px;
+font-size: 80px;
+margin-top: 10px;
+}
+
+.navbar a {
+color: rgb(255, 255, 255);
+margin-right: 30px;
+transition: ease-in-out;
+display: inline-block ;
+flex-wrap: wrap;
+font-size: 45px;
+align-items: center;
+justify-items: center;
+}
+
+.navbar a:hover { 
+    color:#eb7a2f; 
+    font-size: 47px; 
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-image: url(wp9260032.webp);
+}
+
+.contact a{
+    color: #ffffff;
+    font-size: 30px;
+    line-height: 60px;
+}
+
+.contact header {
+    font-family: initial;
+    font-size: 50px;
+    color: #eb7a2f;
+    margin-top: 40px;
+}
+
+.contact a:hover {
+    font-size: 34px;
+    color: blue;
+}
+
+.contact {
+   background-image: url(wp9260032.webp);
+}
+
+.image img {
+    height: 650px; width: 650px;
+    padding-top: 30px;
+    margin-left: 30px;
+    border-radius: 50%;
+    border: 10px solid #000000;
+    padding: 0px;
+    margin: 10px;
+}
+
+.par {
+   margin-left: 800px;
+   margin-bottom: 300%;
+    font-weight: 100px;
+    font-size: 30px;
+    color: #ffffff;
+    position: relative;
+    bottom: 580px;
+}
+
+h1 {
+    font-size: 70px;
+    color: #eb7a2f;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+
+.header {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: none;
+    position: sticky;
+}
+
+.container:hover {
+    opacity: 0.5;
+    transition: 0.5s;
+    cursor: pointer;
+    opacity: 0.5;
+}
+
+.container {
+    position: relative;
+    height: 0;
+    display: flex;
+    width: 1.5rem;
+    padding: 30px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 30px;
+}
+
+#a {
+    color: #ffffff;
+}   
+
+.a {
+    width: 5%;
+    height: 5%;
+    display:flex;
+}
+
+img {
+    width: 490px;
+    margin-left: -37px;
+    margin-top: -70px;
+    padding-bottom: 80px;
+}
+
+element.style {
+    max-width: 1000px;
+}
+
+.container {
+    display: table-caption;
+    flex-wrap: wrap;
+}
+
+.a {
+    margin-left: 680px;
+    font-size: 35px;
+    margin-top: -100px;
+}
+p {
+    color: white;
+}
+
+.b {
+    margin-left: 680px;
+    font-size: 32px;
+    margin-top: 690px;
+}
+
+.c {
+    margin-left: 680px;
+    font-size: 33px;
+    margin-top: 155px;
+}
+
+.d {
+    margin-left: 680px;
+    font-size: 33px;
+    margin-top: 120px;
+}
+
+.e {
+    margin-left: 680px;
+    font-size: 33px;
+    margin-top:75px;
+}
+
+.Me header {
+    margin-top: 30px;
+}
+
+.contact {
+    color: #ffffff;
+}
+
+.contact-form {
+    line-height: 60px;
+    font-size: 25px;
+}
+
+button {
+    font-size: 22px;
+    color: #000000;
+}
+
+button:hover {
+    color: #cd6017; 
+    font-size: 25px;
+}
